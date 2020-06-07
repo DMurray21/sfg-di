@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3c9142-2b6e-483f-aa80-93f15a6ffffb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d05LME3eqHozamhxTZrZbSzdIh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SfgDiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sfg-di" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guru.springframework.sfgdi.SfgDiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3c9142-2b6e-483f-aa80-93f15a6ffffb" name="Default Changelist" comment="" />
+      <created>1591549112921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591549112921</updated>
+      <workItem from="1591549115103" duration="224000" />
+      <workItem from="1591549435364" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" key="SettingsEditor" timestamp="1591549589286">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.807/-240.-1057.1920.1057@0.23.1440.807" timestamp="1591549589286" />
+    <state x="88" y="89" key="new project wizard" timestamp="1591549335183">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="88" y="89" key="new project wizard/0.23.1440.807/-240.-1057.1920.1057@0.23.1440.807" timestamp="1591549335183" />
+  </component>
+</project>
